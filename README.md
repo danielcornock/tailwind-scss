@@ -8,4 +8,4 @@ To install, run `npm install @danielc7150/tailwind-scss`.
 
 ## Usage
 
-To import these SCSS variables, at the top of your global SCSS file use `@import '@danielc7150/tailwind-scss/theme';`.
+To import these SCSS variables, at the top of your global SCSS file use `@import '@danielc7150/tailwind-scss';`.

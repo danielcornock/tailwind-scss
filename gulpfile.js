@@ -9,7 +9,7 @@ gulp.task('default', mergeSass);
 function mergeSass(done) {
   return gulp
     .src(['modules/*.scss']) // Reads all files in src
-    .pipe(concat('theme.scss')) // Merges all of the files into theme.scss
+    .pipe(concat('index.scss')) // Merges all of the files into theme.scss
     .pipe(sass()) // Serves to remove @import statements from the output
     .pipe(gulp.dest('./')); // Writes the file to root
 }
