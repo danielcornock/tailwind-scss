@@ -1,6 +1,6 @@
 {
   "name": "@danielc7150/tailwind-scss",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Use tailwinds default configuration through variables instead of classes.",
   "main": "index.js",
   "scripts": {
