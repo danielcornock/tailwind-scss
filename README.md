@@ -4,8 +4,10 @@ For those that want to use tailwinds default configuration, but also want to kee
 
 ## Installation
 
-To install, run `npm install @danielc7150/tailwind-scss`.
+To install, run:
+`npm install @danielc7150/tailwind-scss`
 
 ## Usage
 
-To import these SCSS variables, at the top of your global SCSS file use `@import '@danielc7150/tailwind-scss';`.
+To import these SCSS variables, at the top of your global SCSS file use:
+`@import '@danielc7150/tailwind-scss';`

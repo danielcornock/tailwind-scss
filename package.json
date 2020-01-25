@@ -6,6 +6,7 @@
   "scripts": {
     "merge": "gulp"
   },
+  "git": "https://github.com/danielcornock/tailwind-scss",
   "private": false,
   "files": [
     "index.scss"
