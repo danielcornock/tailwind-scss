@@ -8,7 +8,7 @@
   },
   "private": false,
   "files": [
-    "theme.scss"
+    "index.scss"
   ],
   "keywords": [
     "tailwind",
