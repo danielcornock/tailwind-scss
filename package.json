@@ -1,0 +1,25 @@
+{
+  "name": "@danielc7150/tailwind-scss",
+  "version": "1.0.1",
+  "description": "Use tailwinds default configuration through variables instead of classes.",
+  "main": "index.js",
+  "scripts": {
+    "merge": "gulp"
+  },
+  "private": false,
+  "files": [
+    "theme.scss"
+  ],
+  "keywords": [
+    "tailwind",
+    "scss",
+    "utilities"
+  ],
+  "author": "Daniel Cornock",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-scss-combine": "^1.0.0"
+  }
+}
